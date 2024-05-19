@@ -4,10 +4,10 @@ As a data analyst with access to a large set of historical data I analyzed relat
 
   The models used for this project:
   
-  Multiple Regression
-  Qualitative Variables Interactions
-  Quadratic Regression
-  Logistic Regression
+  Multiple Regression, 
+  Qualitative Variables Interactions, 
+  Quadratic Regression, 
+  Logistic Regression, 
   Random Forests
 
 After modeling the scenarios I created a summary report on my findings discussing:
