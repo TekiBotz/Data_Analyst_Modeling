@@ -1,1 +1,1 @@
-# Data_Analyst_Modeling
+# SNHU_Statistical_Analyst
