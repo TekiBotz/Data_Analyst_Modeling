@@ -1,4 +1,4 @@
-# SNHU_Statistical_Analyst
+# Regression_Analysis
 
 As a data analyst with access to a large set of historical data I analyzed relationships between different attributes of a house and the house’s selling price and patterns between different health indicators and the presence of heart disease.
 
